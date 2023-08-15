@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "QueueTitle": "Queue1",
+    "QueueTotalCustomer": 5,
+    "QueueCustomers": [
+      { "id": 1, "cutomerItems": 5 },
+      { "id": 2, "cutomerItems": 10 },
+      { "id": 3, "cutomerItems": 5 },
+      { "id": 4, "cutomerItems": 15 },
+      { "id": 5, "cutomerItems": 8 }
+    ]
+  },
+
+  {
+    "id": 2,
+    "QueueTitle": "Queue2",
+    "QueueTotalCustomer": 3,
+    "QueueCustomers": [
+      { "id": 1, "cutomerItems": 5 },
+      { "id": 2, "cutomerItems": 10 },
+      { "id": 3, "cutomerItems": 5 }
+    ]
+  }
+]
